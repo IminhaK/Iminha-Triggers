@@ -2,7 +2,7 @@
 
 Iminha's triggernometry triggers for FFXIV
 Please look at every trigger and enable/disable them as you see fit
-Please contact me at Iminha#4232 in the Triggernometry discord #questions channel for any issues.
+Please contact me at Iminha#7232 in the Triggernometry discord #questions channel for any issues.
 
 Any triggers that require telesto will include (T) in their description
 Any triggers that are experimental or untested will include (exp) in their description
